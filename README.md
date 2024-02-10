@@ -8,3 +8,4 @@ alt
 dym
 interoperability infra
 blast eco
+social fi
