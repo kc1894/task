@@ -10,4 +10,4 @@ interoperability infra
 blast eco
 social fi
 pendle
-serach
+reserach
