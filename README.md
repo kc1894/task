@@ -11,3 +11,4 @@ blast eco
 social fi
 pendle
 research
+check notes
