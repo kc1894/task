@@ -13,4 +13,4 @@ pendle
 research
 check notes
 season 9
-wl
+wl animoca
