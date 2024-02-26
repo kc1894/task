@@ -12,4 +12,3 @@ social fi
 pendle
 research
 check notes
-wl animoca
