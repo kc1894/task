@@ -12,3 +12,4 @@ social fi
 pendle
 research
 check notes
+check bookmarks
