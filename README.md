@@ -8,7 +8,6 @@ alt
 dym
 interoperability infra
 blast eco
-social fi
 pendle
 research
 check notes
