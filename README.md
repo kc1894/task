@@ -13,3 +13,4 @@ research
 check notes
 check bookmarks
 layer3 quests
+cmc memes
