@@ -15,6 +15,3 @@ check bookmarks
 layer3 quests
 cmc memes
 io
-هخ
-هخ
-هخ
