@@ -15,3 +15,4 @@ check bookmarks
 layer3 quests
 cmc memes
 ionet
+ranked
