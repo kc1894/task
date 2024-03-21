@@ -14,5 +14,4 @@ check notes
 check bookmarks
 layer3 quests
 cmc memes
-ionet
 GMINI
