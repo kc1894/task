@@ -14,4 +14,4 @@ check notes
 check bookmarks
 layer3 quests
 cmc memes
-GMINI
+0G node
