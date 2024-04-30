@@ -15,4 +15,3 @@ check bookmarks
 layer3 quests
 cmc memes
 0G node
-nodesgru
