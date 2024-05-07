@@ -17,4 +17,4 @@ cmc memes
 movement
 nodesgru
 galxe spaces
-update daily
+daily tab
