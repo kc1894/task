@@ -17,4 +17,3 @@ cmc memes
 movement
 nodesgru
 galxe spaces
-daily
