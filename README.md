@@ -16,4 +16,3 @@ cmc memes
 0G node
 movement
 nodesgru
-galxe spaces
