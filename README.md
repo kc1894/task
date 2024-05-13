@@ -15,4 +15,3 @@ check bookmarks
 cmc memes
 0G node
 movement
-nodesgru
