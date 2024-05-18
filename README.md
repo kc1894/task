@@ -16,3 +16,4 @@ cmc memes
 0G node
 movement
 deploy on hekla
+lfd, imx, carv
