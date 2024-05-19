@@ -4,7 +4,6 @@ carv
 lst > lrt
 daily tab
 bookmarks
-alt
 dym
 interoperability infra
 blast eco
