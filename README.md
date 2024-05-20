@@ -14,4 +14,4 @@ check bookmarks
 0G node
 movement
 deploy on hekla
-lfd, imx, carv
+lfd, imx, carv, shell
