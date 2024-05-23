@@ -12,4 +12,4 @@ check notes
 check bookmarks
 movement
 deploy on hekla
-lfd, imx, carv, shell
+lfd, imx, carv, shell, meme
