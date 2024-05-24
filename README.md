@@ -7,7 +7,6 @@ bookmarks
 interoperability infra
 blast eco
 pendle
-research
 check notes
 check bookmarks
 movement
