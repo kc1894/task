@@ -12,4 +12,4 @@ check bookmarks
 movement
 deploy on hekla
 lfd, imx, carv, shell, meme
-galxe
+galxe spaces
