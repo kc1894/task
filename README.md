@@ -2,7 +2,6 @@
 shell
 carv
 lst > lrt
-daily tab
 bookmarks
 interoperability infra
 blast eco
