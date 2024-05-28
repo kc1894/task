@@ -4,7 +4,6 @@ carv
 lst > lrt
 bookmarks
 interoperability infra
-blast eco
 pendle
 check notes
 check bookmarks
