@@ -1,7 +1,6 @@
 # task
 shell
 carv
-lst > lrt
 bookmarks
 interoperability infra
 pendle
