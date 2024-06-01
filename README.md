@@ -11,4 +11,4 @@ movement
 deploy on hekla
 lfd, imx, carv, shell, meme
 galxe spaces 
-incentivised
+incentivised campaigns
