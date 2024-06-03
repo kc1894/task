@@ -3,7 +3,6 @@ shell
 carv
 bookmarks
 interoperability infra
-pendle
 check bookmarks
 movement
 deploy on hekla
