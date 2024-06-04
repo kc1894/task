@@ -1,7 +1,6 @@
 # task
 shell
 carv
-bookmarks
 interoperability infra
 check bookmarks
 movement
