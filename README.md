@@ -9,3 +9,4 @@ lfd, imx, carv, shell, meme
 galxe spaces 
 incentivised campaigns
 moca
+galxe modulars
