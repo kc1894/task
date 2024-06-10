@@ -11,3 +11,4 @@ incentivised campaigns
 moca
 galxe modulars spaces
 nubit
+fuel
