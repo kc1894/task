@@ -12,3 +12,4 @@ moca
 galxe modulars spaces
 nubit
 fuel
+zkvm
