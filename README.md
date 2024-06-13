@@ -13,3 +13,4 @@ galxe modulars spaces
 nubit
 fuel
 zkvm
+bera testnet
