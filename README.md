@@ -14,3 +14,4 @@ nubit
 fuel
 zkvm
 bera testnet
+nillion
