@@ -15,3 +15,4 @@ fuel
 zkvm
 bera testnet
 nillion
+check telegram
