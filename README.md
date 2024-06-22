@@ -13,7 +13,6 @@ galxe modulars spaces
 nubit
 fuel
 zkvm
-bera testnet
 nillion
 gitcoin passport
 bera
