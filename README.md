@@ -15,7 +15,6 @@ fuel
 zkvm
 bera testnet
 nillion
-check telegram
 gitcoin passport
 bera
 xion
