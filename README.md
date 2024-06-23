@@ -12,7 +12,6 @@ moca
 galxe modulars spaces
 nubit
 fuel
-zkvm
 nillion
 gitcoin passport
 bera
