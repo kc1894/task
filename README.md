@@ -16,3 +16,4 @@ nillion
 gitcoin passport
 bera
 xion
+plum
