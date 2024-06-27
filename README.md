@@ -15,5 +15,5 @@ fuel
 nillion
 gitcoin passport
 bera
-xion
+stakeland
 plum
