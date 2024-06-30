@@ -14,6 +14,6 @@ nubit
 fuel
 nillion
 gitcoin passport
-bera
+bera testnet
 stakeland
 plum
