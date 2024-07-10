@@ -11,7 +11,6 @@ incentivised campaigns
 moca
 galxe modulars spaces
 nubit
-fuel
 gitcoin passport
 bera testnet
 stakeland
