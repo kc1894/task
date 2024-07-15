@@ -15,4 +15,4 @@ gitcoin passport
 bera testnet
 stakeland
 plum
-interact
+
