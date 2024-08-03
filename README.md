@@ -14,4 +14,5 @@ gitcoin passport
 bera testnet
 stakeland
 plum
+bera, initia > 100tx
 
