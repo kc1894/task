@@ -11,7 +11,6 @@ incentivised campaigns
 galxe modulars spaces
 nubit
 gitcoin passport
-bera testnet
 stakeland
 plum
 bera, initia > 100tx
