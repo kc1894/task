@@ -11,7 +11,6 @@ incentivised campaigns
 galxe modulars spaces
 nubit
 gitcoin passport
-stakeland
 plum
 bera, initia > 100tx
 
