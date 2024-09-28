@@ -14,3 +14,4 @@ gitcoin passport
 plum
 bera, initia > 100tx
 fractal mint, inscribe, transfer
+story > 100 tx
