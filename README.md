@@ -17,3 +17,4 @@ story > 100 tx
 linera
 elsa
 sahara
+0G
